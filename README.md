@@ -22,7 +22,7 @@ I build useful products, customize business workflows, and enjoy turning ideas i
 ### Recent merged contributions
 
 <!-- CONTRIBUTIONS:START -->
-_Contributions update automatically every day._
+- [react-hook-form/react-hook-form #14008 — Fix row-level validation errors in useFieldArray](https://github.com/react-hook-form/react-hook-form/pull/14008) · Co-authored contribution
 <!-- CONTRIBUTIONS:END -->
 
 ### Contribution graph
