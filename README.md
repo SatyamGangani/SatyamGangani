@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hey, I'm Satyam 👋
 
-<!--
-**SatyamGangani/SatyamGangani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Backend Developer · Vibe Coder · Open-Source Contributor**
 
-Here are some ideas to get you started:
+I build useful products, customize business workflows, and enjoy turning ideas into working software with code and AI-assisted development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧩 Working with **Python, Odoo, and the JavaScript ecosystem**
+- 🤖 Exploring **AI coding agents, automation, and vibe coding**
+- 🚀 Building SaaS products and practical side projects
+- 🌱 Interested in open source, clean backend architecture, and developer tools
+
+### Tech I work with
+
+`Python` · `Odoo` · `JavaScript` · `TypeScript` · `React` · `Node.js` · `Flask` · `PostgreSQL` · `MongoDB`
+
+### Open-source
+
+- **React Hook Form** — contributed a fix for row-level validation errors in `useFieldArray`.
+  - [Merged implementation · PR #14008](https://github.com/react-hook-form/react-hook-form/pull/14008)
+  - [Original contribution · PR #14006](https://github.com/react-hook-form/react-hook-form/pull/14006)
+
+### Recent merged contributions
+
+<!-- CONTRIBUTIONS:START -->
+_Contributions update automatically every day._
+<!-- CONTRIBUTIONS:END -->
+
+### Contribution graph
+
+![GitHub contribution snake](https://raw.githubusercontent.com/SatyamGangani/SatyamGangani/output/github-contribution-grid-snake.svg)
+
+---
+
+*Always building, learning, and shipping.*
