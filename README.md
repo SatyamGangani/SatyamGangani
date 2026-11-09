@@ -22,7 +22,12 @@ I build useful products, customize business workflows, and enjoy turning ideas i
 ### Recent merged contributions
 
 <!-- CONTRIBUTIONS:START -->
-- [react-hook-form/react-hook-form #14008 — Fix row-level validation errors in useFieldArray](https://github.com/react-hook-form/react-hook-form/pull/14008) · Co-authored contribution
+- [react-hook-form/react-hook-form #14011: fix(handleSubmit): support transformed primitive values with disabled fields](https://github.com/react-hook-form/react-hook-form/pull/14011) · 2026-11-08
+- [SatyamGangani/ipo-allotment-checker #5: Harden allotment API request handling](https://github.com/SatyamGangani/ipo-allotment-checker/pull/5) · 2026-11-07
+- [SatyamGangani/ipo-allotment-checker #4: Fix server-side PAN and registrar validation](https://github.com/SatyamGangani/ipo-allotment-checker/pull/4) · 2026-11-07
+- [SatyamGangani/ipo-allotment-checker #3: Docs: add branded README banner](https://github.com/SatyamGangani/ipo-allotment-checker/pull/3) · 2026-11-07
+- [SatyamGangani/ipo-allotment-checker #2: Docs: improve GitHub project presentation](https://github.com/SatyamGangani/ipo-allotment-checker/pull/2) · 2026-11-07
+- [SatyamGangani/ipo-allotment-checker #1: Chore/open source foundation](https://github.com/SatyamGangani/ipo-allotment-checker/pull/1) · 2026-11-07
 <!-- CONTRIBUTIONS:END -->
 
 ### Contribution graph
